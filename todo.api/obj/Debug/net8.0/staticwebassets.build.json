@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9jc7P7nIk9AyuUx2Yi1JXyEMKZO98UJd++gRRe+0S/A=",
+  "Source": "todo.api",
+  "BasePath": "_content/todo.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
